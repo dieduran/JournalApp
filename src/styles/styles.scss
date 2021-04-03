@@ -1,2 +1,6 @@
 @import './base/settings'; //lo pone sin el guion bajo
 @import './base/base';
+
+//components
+@import './components/auth';
+@import './components/buttons';
